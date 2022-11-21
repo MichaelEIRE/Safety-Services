@@ -4,6 +4,10 @@
   } */
 /* -------------------------------- Visualizer */
 
+* * {
+    outline: 1px solid #f00 !important;
+  } */
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald:wght@400;500&display=swap');
 
 * {
@@ -20,8 +24,7 @@ body {
 
 /* Heading and logo*/
 
-h1,
-h2 {
+h1, h2 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.188rem;
@@ -137,4 +140,23 @@ h2 {
     padding-top: 1.875rem;
     width: 50%;
     float: right;
+}
+
+
+
+div .picture1 {
+    background : url('../images/picture1.jpg') no-repeat center center;
+    
+}
+
+/* services */
+
+#services div {
+    width: 33.3%;
+    height: 300px;
+    float: left;
+    padding: 60px 0 0 20px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
 }
