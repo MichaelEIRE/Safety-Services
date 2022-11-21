@@ -1,3 +1,9 @@
+/* -------------------------------- Visualizer */
+/* * {
+    outline: 1px solid #f00 !important;
+  } */
+/* -------------------------------- Visualizer */
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald:wght@400;500&display=swap');
 
 * {
@@ -25,6 +31,8 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+
+    margin-left: 1.25rem;
 }
 
 /*navigation links*/
@@ -111,4 +119,22 @@ h2 {
     right: 9.375rem;
 
     position: absolute;
+}
+
+/* why choose us */
+
+#why-choose {
+    height: 37.5rem;
+}
+
+#left-why {
+    padding-top: 1.875rem;
+    width: 50%;
+    float: left;
+}
+
+#right-why {
+    padding-top: 1.875rem;
+    width: 50%;
+    float: right;
 }
