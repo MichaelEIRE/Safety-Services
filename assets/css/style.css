@@ -18,7 +18,7 @@ h1,
 h2 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 0.188rem;
     color: #2f2f2f;
 }
 
@@ -31,18 +31,18 @@ h2 {
 
 #menu {
     font-size: 110%;
-    letter-spacing: 3px;
+    letter-spacing: 0.188rem;
 }
 
 #menu,
 #logo {
-    line-height: 75px;
+    line-height: 4.688rem;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 
 #menu a {
@@ -51,23 +51,29 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3e413d;
+    border-bottom: .063rem solid #3e413d;
 }
 
 .active {
-    border-bottom: 1px solid #3e413d;
+    border-bottom: .063rem solid #3e413d;
 }
 
 /* hero image*/
 
 #hero-outer {
-    height: 600px;
+    height: 37.5rem;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text h3 {
+    color: #fff;
 }
 
 #hero-image {
-    height: 600px;
+    height: 37.5rem;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
 
@@ -87,4 +93,22 @@ h2 {
     to {
         transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 140%;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.188px;
+    text-align: center;
+
+    width: 25rem;
+    height: 12.5rem;
+
+    background-color: rgba(225, 225, 0, .6);
+
+    bottom: 1.875rem;
+    right: 9.375rem;
+
+    position: absolute;
 }
