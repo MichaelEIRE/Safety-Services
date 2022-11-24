@@ -206,3 +206,17 @@ footer {
     color: #3e413d;
 
 }
+
+/* about page hero image*/
+
+.about-hero {
+    background-image: url('../images/manonforklift.jpg');
+    background-size: cover;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+}
