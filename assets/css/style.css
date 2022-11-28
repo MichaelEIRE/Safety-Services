@@ -4,7 +4,6 @@
   } */
 /* -------------------------------- Visualizer */
 
-
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald:wght@400;500&display=swap');
 
 
@@ -233,12 +232,60 @@ footer {
     padding: 12vh 0;
     text-align: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-direction: column;
-    flex: 1 1 0;
+    flex: 1 1 33%;
 }
 
 .about-safety-services {
     text-align: center;
     padding-top: 30px;
 }
+
+/* Upcoming page*/
+
+.upcoming-hero {
+    background-image: url('../images/crptraining-landscape\ \(1\).jpg');
+    background-size: cover;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+/* upcoming training */
+
+.upcoming-month {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.upcoming-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.upcoming { 
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #2f2f2f;
+    height: 25vh;
+    padding: 2vh;
+}
+
+.upcoming-type {
+    text-indent: 15%;
+    
+}
+
+.upcoming > .upcoming-type {
+    flex: 1 1 70%;
+}
+
+.upcoming > .upcoming-info {
+    flex: 1 1 30%;
+}
+
