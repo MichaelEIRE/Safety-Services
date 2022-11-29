@@ -239,7 +239,8 @@ footer {
 
 .about-safety-services {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 /* Upcoming page*/
@@ -260,14 +261,14 @@ footer {
 
 .upcoming-month {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .upcoming-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-
 }
 
 .upcoming { 
@@ -281,8 +282,7 @@ footer {
 }
 
 .upcoming-type {
-    text-indent: 15%;
-    
+    text-indent: 15%; 
 }
 
 .upcoming > .upcoming-type {
