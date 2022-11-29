@@ -266,6 +266,8 @@ footer {
 .upcoming-container {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+
 }
 
 .upcoming { 
@@ -273,7 +275,9 @@ footer {
     flex-wrap: wrap;
     border: 2px solid #2f2f2f;
     height: 25vh;
-    padding: 2vh;
+    margin: 20px;
+    border-radius: 1%;
+    align-items: center;
 }
 
 .upcoming-type {
