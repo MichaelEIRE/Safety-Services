@@ -253,8 +253,7 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    
+    width: 100%; 
 }
 
 /* upcoming training */
@@ -293,3 +292,15 @@ footer {
     flex: 1 1 30%;
 }
 
+/* contact page */
+
+.contact-hero {
+    background-image: url('../images/Workers2.jpg');
+    background-size: cover;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%; 
+}
