@@ -304,3 +304,11 @@ footer {
     justify-content: center;
     width: 100%; 
 }
+
+.even-contact {
+    display: flex;
+}
+
+.even-contact > div {
+    flex-basis: 100%;
+}
