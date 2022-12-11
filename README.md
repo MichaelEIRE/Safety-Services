@@ -5,3 +5,23 @@ This website is a fake business that has been compiled for I (Michael Seery) pro
 
 This project is for educational purposes and can not be used as a template for business use. 
 
+<--Image of responsiveness-->
+
+<--link to live website in github pages-->
+
+# UX
+## Website's Business Goals
+
+The purpose of this website is to provide course training details for 'SAFETY SERVICES' a fictional company i created for educational purposes. On this wepsite the owner can show to the public what training the provide, in the form of type of training, time, date, location and a contact page with phone number, email address and location information. The wepsite should be simple and clear to navigate via top right hand site links and have social media links in the footer.
+
+## User Goals
+
+### New User Goals
+* Find information on training such as forklift, first aid , manual handling.
+* Learn about the company, why choose us section and about page.
+* Navigate to upcoming page to find information on upcoming training.
+* Locate a contact page, with contact information.
+
+### Returning User Goals
+* Find new dates for training on the upcoming page
+* Leave a message with the company through a contact form.
