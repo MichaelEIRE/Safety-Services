@@ -62,4 +62,9 @@ The website features 4 pages Home, About, Upcoming and Contact all are accessibl
 
 ## Navigation Bar
 
-* Navigation bar is located at the top of the page and is static, with Home, About, Upcoming and Contact located top right where user expects them to be and a logo top left.
+* Navigation bar is located at the top of the page and is static, with Home, About, Upcoming and Contact located top right where user expects them to be and a logo top left. 
+
+## Footer
+
+*  Footer section is uniform across all pages, consisting of a copyright on the left and clickable social media icon on the right that open up in a new tab.
+
