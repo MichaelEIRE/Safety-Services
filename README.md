@@ -77,3 +77,7 @@ The website features 4 pages Home, About, Upcoming and Contact all are accessibl
 ## About
 
 * About contains an image followed by the About Safety Services section that contains a horizontal field of text and images of Who We Are, What We Do and Why We Do It
+
+## Upcoming
+
+* Upcoming consists  of an image at the top of the page followed by a month sitting above informative box-like sections of content for the user, describing training available with time, dates, locations
