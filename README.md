@@ -81,3 +81,7 @@ The website features 4 pages Home, About, Upcoming and Contact all are accessibl
 ## Upcoming
 
 * Upcoming consists  of an image at the top of the page followed by a month sitting above informative box-like sections of content for the user, describing training available with time, dates, locations
+
+## Contact
+
+* The contact page offers information to the user such as company location, number and email address, it also offers a section for the user to contact the company via email with a message.
