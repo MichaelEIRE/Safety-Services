@@ -68,3 +68,12 @@ The website features 4 pages Home, About, Upcoming and Contact all are accessibl
 
 *  Footer section is uniform across all pages, consisting of a copyright on the left and clickable social media icon on the right that open up in a new tab.
 
+## Home
+
+* Header section has a hero Image with a zoom effect  and an inspiration quote.
+* Why choose Safety Services section contains reasons to choose our company and an image of workers wearing PPE.
+* Services available section shows through  images and writing what training is offered.
+
+## About
+
+* About contains an image followed by the About Safety Services section that contains a horizontal field of text and images of Who We Are, What We Do and Why We Do It
