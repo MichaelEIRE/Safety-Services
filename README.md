@@ -120,3 +120,15 @@ The website features 4 pages Home, About, Upcoming and Contact all are accessibl
 ## Gitpod
 
 * Used as a open source developer platform automating the provisioning of ready-to-code developer environments.
+
+# Testing
+
+Functionality testing was done through Chrome and Mozilla developer tools. Throughout this project I used these developer tools to overcome issues with responsiveness and styling.
+ 
+I was made aware of a border outline CSS trick through my peers that was also used to assist in solving responsiveness and styling issues as they arose. See code below.
+ 
+  (CSS code) * { outline: 1px solid #f00 !important; } 
+ 
+Compatibility testing was done across virtual mobile devices via web developer tools in Chrome and Mozilla
+ 
+Hardware compatibility tests was done across dell laptop (inspiron 5415, Monitor (AOC 27″ G2790VXA LED GAMING MONITOR),  mobile device (OPPO Reno4 Z 5G).
