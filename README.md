@@ -85,3 +85,38 @@ The website features 4 pages Home, About, Upcoming and Contact all are accessibl
 ## Contact
 
 * The contact page offers information to the user such as company location, number and email address, it also offers a section for the user to contact the company via email with a message.
+
+## Future Ideas
+
+* Add a testimonial page.
+* Ability to login to website and choose and pay for upcoming training.
+
+# Technologies Used
+
+## HTML5
+
+* Used as a markup language used for structuring and presenting content on the World Wide Web.
+
+## CSS
+
+* Used as a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+
+## Font Awesome
+
+* Used as a font and icon toolkit based on CSS, for example used in social links.
+
+## Google Fonts
+
+* This includes free and open source font families offered by Google.
+
+## Balsamiq.com
+
+* Used for wireframing 
+
+## GitHub
+
+* Used as a internet hosting service for software development and version control using Git.
+
+## Gitpod
+
+* Used as a open source developer platform automating the provisioning of ready-to-code developer environments.
